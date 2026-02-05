@@ -1,1 +1,2 @@
 vless://e3269378-6e87-4a3b-a842-5587d8078a93@str1.sinapp1.com:24618?security=&encryption=none&headerType=none&type=tcp#laddbxdk
+vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&sni=dojman.global.ssl.fastly.net#%F0%9F%94%A5Join%20Telegram%3A%40Farah_VPN%F0%9F%9F%A3
